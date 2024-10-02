@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Laosmell
 - 👀 I’m interested in outdoors activities (hiking, trekking, camping) as well I like exploring new cities/countries.
-- 🌱 I’m currently learning Data Analytics. I'm taking a course in Coursera.
-- 📫 How to reach me. You can send me an email or thru Github? I'm pretty new on this. 
+- 🌱 I’m currently taking Data Analytics course on Analyst Builder by Alex Freberg.
+- 📫 How to reach me. You can send me an email. 
 - ⚡ Fun fact: I met Smokey the Bear (obv. not real bear, haha)
 
 <!---
